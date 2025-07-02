@@ -48,4 +48,4 @@ This is a simple **Library Management System** built using Java. It allows users
 
 Here’s how the console looks while running the project:
 
-![Library Management Screenshot](screenshot.png)
+![Library Management Screenshot](Screenshot.png)
